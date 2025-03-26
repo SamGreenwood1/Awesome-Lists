@@ -14,9 +14,9 @@ Awesome Lists are collaboratively maintained collections of the best resources f
 
 ## How to Use This Repository
 
-This repository does *not* contain a complete listing of all Awesome Lists within this collection. Instead, it acts as a central point directing you to our [Wiki](link to your wiki homepage). The wiki offers a structured browsing experience allowing you to explore lists by category.
+This repository does *not* contain a complete listing of all Awesome Lists within this collection. Instead, it acts as a central point directing you to our [Wiki](https://github.com/SamGreenwood1/Awesome-Lists/wiki/). The wiki offers a structured browsing experience allowing you to explore lists by category.
 
-We recommend starting at the [Wiki](link to your wiki homepage) to browse and discover awesome resources.
+We recommend starting at the [Wiki](https://github.com/SamGreenwood1/Awesome-Lists/wiki/) to browse and discover awesome resources.
 
 ## Contribution Guidelines
 
