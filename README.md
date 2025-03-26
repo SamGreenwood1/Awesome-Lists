@@ -20,7 +20,7 @@ We recommend starting at the [Wiki](link to your wiki homepage) to browse and di
 
 ## Contribution Guidelines
 
-We welcome contributions to this repository! Before contributing, please read our [Contribution Guidelines](link to your wiki contribution guidelines page).
+We welcome contributions to this repository! Before contributing, please read our [Contribution Guidelines](https://github.com/SamGreenwood1/Awesome-Lists/wiki/Contribution-Guidelines).
 
 ## License
 
